@@ -1,0 +1,52 @@
+{
+    "cooperatives": [
+        {
+            "id_coop":1,
+            "nom_coop": "SOCIETE COOPERATIVE AGRICOLE AGRI IVOIRE DE SAGO",
+            "adress_coop" : "Abidjan",
+            "contact_coop": "0758413430",
+            "nombre_contrats":"18",
+            "nombre_transactions": "64"
+        },
+        {
+            "id_coop":2,
+            "nom_coop": "COPARES",
+            "adress_coop" : "Abidjan",
+            "contact_coop": "0758141011",
+            "nombre_contrats":"8",
+            "nombre_transactions": "56"
+
+        },
+        {
+            "id_coop":3,
+            "nom_coop": "COPAS",
+            "adress_coop" : "Abidjan",
+            "contact_coop": "0723450976",
+            "nombre_contrats":"12",
+            "nombre_transactions": "45"
+
+        },
+        {
+            "id_coop":4,
+            "nom_coop": "COOP. CA COVIMA",
+            "adress_coop" : "Bouaflé",
+            "contact_coop": "0709061917",
+            "nombre_contrats":"17",
+            "nombre_transactions": "70"
+
+        }
+
+    ],
+    "tonnage_recu": [
+        {
+            "id": 1,
+            "cooperative":"COPARES",
+            "date_reception_prevue": "",
+            "date_reception_reel": "13-03-2023",
+            "quantite": "4000 kilos",
+            "statut":"RETARD, ARRIVÉ, "
+        }
+
+    ]
+}
+
